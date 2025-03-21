@@ -55,7 +55,7 @@ The true program effects (for validation) are:
 
 ```python
 # Run the complete simulation
-python outreach_simulation.py
+python MSM.py
 
 # The script automatically generates:
 # - Statistical model summaries
